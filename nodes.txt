@@ -1,0 +1,38 @@
+ID,Name,Latitude,Longitude,Type,Capacity,Demand
+N01,Graphic Era University,30.318015,78.015832,affected_area,0,100
+N02,Shiwalik School,30.300874,78.03301,shelter,100,20
+N03,Indira Nagar Warehouse,30.293272,77.983126,warehouse,0,0
+N04,Ballupur Chowk,30.33338,77.989772,intersection,0,50
+N05,GMS Road Storehouse,30.348279,77.986577,warehouse,0,0
+N06,Max Super Hospital,30.344229,78.05176,hospital,150,0
+N07,Doon Grammar School,30.341309,78.070274,shelter,100,100
+N08,Kargi Chowk Area,30.328037,78.011063,affected_area,0,40
+N09,Naag Mandir,30.279903,78.065029,intersection,100,0
+N10,Railway Station,30.311056,78.045791,affected_area,0,150
+N11,Indira Market,30.301267,78.065256,shelter,150,100
+N12,Paltan Bazaar,30.28687,78.036376,intersection,0,50
+N13,RTO Warehouse,30.361746,78.061343,warehouse,0,20
+N14,Panditwari Circle,30.356143,78.038034,shelter,100,100
+N15,Doon Valley Area,30.297054,78.067458,affected_area,0,60
+N16,Patel Nagar Main,30.315985,78.003114,shelter,100,0
+N17,Haridwar Bypass,30.342051,78.030567,intersection,0,20
+N18,Survey of India Campus,30.275254,78.017912,shelter,100,0
+N19,Canal Road Turn,30.308814,78.034743,intersection,0,0
+N20,Premnagar Area,30.316771,78.05699,affected_area,50,50
+N21,Mahant Indiresh Hospital,30.290424,78.048061,hospital,150,0
+N22,IT Park Sahastradhara,30.331518,77.992906,shelter,100,0
+N23,Kaonli Circle,30.344735,78.050976,shelter,100,20
+N24,Zonal Warehouse,30.330481,78.061285,warehouse,0,0
+N25,Red Cross Bhawan,30.337072,78.061355,shelter,100,0
+N26,Vasant Vihar Ext,30.307267,78.008478,affected_area,0,30
+N27,Rajpur Road Edge,30.312701,78.016313,affected_area,0,70
+N28,Parade Ground,30.346607,78.033742,shelter,150,0
+N29,Synergy Institute,30.341663,78.011151,shelter,150,50
+N30,Touch Wood School,30.302324,78.023172,shelter,100,0
+N31,GEIMS Hospital,30.323456,78.025678,hospital,200,0
+N32,CMI Hospital,30.316789,78.041234,hospital,150,0
+N33,Doon Medical College,30.285678,78.032456,hospital,200,0
+N34,Kailash Hospital,30.334567,78.056789,hospital,150,0
+N35,Metro Hospital,30.298765,78.019876,hospital,100,0
+N36,FRI,30.279903,78.065029,shelter,300,150
+N37,Quantam University,30.342051,78.030567,intersection,0,20

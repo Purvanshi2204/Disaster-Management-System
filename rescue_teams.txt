@@ -1,0 +1,9 @@
+Team_ID,Base_Location,Speed_kmph,Availability
+RT1,N36,90,Available
+RT2,N28,80,Available
+RT3,N07,85,Available
+RT4,N11,98,Available
+RT5,N16,75,Available
+RT6,N24,87,Available
+RT7,N03,95,Available
+RT8,N21,79,Available
